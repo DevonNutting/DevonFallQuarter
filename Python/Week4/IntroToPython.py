@@ -1,5 +1,7 @@
-num1 = 3005
-num2 = 569
-num3 = num1 + num2
+number1 = 7
+number2 = 99
+number3 = number1 + number2
 
-print(num3)
+print(number1)
+print(number2)
+print(number3)
